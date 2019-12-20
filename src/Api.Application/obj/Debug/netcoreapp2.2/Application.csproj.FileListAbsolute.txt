@@ -1,0 +1,48 @@
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.json
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.dev.json
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cache
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cs
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorTargetAssemblyInfo.cache
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Data.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Service.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Service.pdb
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp2.2\Data.pdb
+C:\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.dev.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorAssemblyInfo.cs
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.RazorTargetAssemblyInfo.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Application\obj\Debug\netcoreapp2.2\Application.pdb

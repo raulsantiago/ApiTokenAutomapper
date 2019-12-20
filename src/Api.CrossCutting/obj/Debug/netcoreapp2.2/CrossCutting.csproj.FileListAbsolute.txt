@@ -1,0 +1,31 @@
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Data.dll
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Data.pdb
+C:\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb

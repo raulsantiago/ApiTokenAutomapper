@@ -1,1 +1,1 @@
-# ApiTokenAutomapper
+# ApiTokenJwtAutomapper

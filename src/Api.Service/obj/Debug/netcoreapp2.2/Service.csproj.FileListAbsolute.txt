@@ -1,0 +1,27 @@
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+C:\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\RaulFS\Documents\Curso C#\curso-api-netcore-automapper\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
